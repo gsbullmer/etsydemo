@@ -13,6 +13,7 @@ gem 'jquery-rails'
 gem "paperclip", "~> 4.2"
 gem "paperclip-dropbox", ">= 1.1.7"
 gem 'sass-rails', '>= 3.2'
+gem 'stripe'
 gem 'turbolinks'
 gem 'uglifier', '>= 1.3.0'
 
